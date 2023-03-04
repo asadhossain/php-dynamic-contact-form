@@ -8,12 +8,6 @@ if (isset($_POST['btn'])){
     $age   = $_POST ["age"];
 
 }
-
-
-
-
-
-
 ?>
 
 
